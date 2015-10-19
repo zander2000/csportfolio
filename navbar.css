@@ -1,0 +1,12 @@
+#nav{
+    text-align:center;
+}
+
+#nav li{
+    /*display:inline-block;*/
+    boarder: 2px solid black
+}
+
+#nav a{
+
+}
