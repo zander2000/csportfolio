@@ -4,9 +4,9 @@
 
 #nav li{
     /*display:inline-block;*/
-    boarder: 2px solid black
+    border: 2px solid black
 }
 
-#nav a{
-
+#about-me2{
+    text-align:center;
 }
